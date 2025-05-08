@@ -23,7 +23,7 @@ EcoMunch is a mobile application designed to help users track their food items a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo-link/EcoMunch.git
+git clone https://github.com/Prachi-sarda/EcoMunch
 cd EcoMunch
 ```
 
