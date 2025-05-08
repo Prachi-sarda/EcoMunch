@@ -1,4 +1,4 @@
-package com.eatmenew
+package com.EcoMunch
 
 import android.app.Application
 import com.facebook.react.PackageList
